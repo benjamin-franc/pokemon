@@ -1,0 +1,32 @@
+{
+    "Pikachu": {
+        "type": "Normal",
+        "defense": 40,
+        "attaque": 55,
+        "vie": 35
+    },
+    "Charizard": {
+        "type": "Feu",
+        "defense": 78,
+        "attaque": 84,
+        "vie": 78
+    },
+    "Blastoise": {
+        "type": "Eau",
+        "defense": 100,
+        "attaque": 83,
+        "vie": 79
+    },
+    "Venusaur": {
+        "type": "Terre",
+        "defense": 83,
+        "attaque": 82,
+        "vie": 80
+    },
+    "Golem": {
+        "type": "Terre",
+        "defense": 130,
+        "attaque": 120,
+        "vie": 80
+    }
+}
